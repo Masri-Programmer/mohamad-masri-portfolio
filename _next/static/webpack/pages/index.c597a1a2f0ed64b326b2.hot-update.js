@@ -32,7 +32,7 @@ var projects = [{
 }, {
   title: 'Propack Store',
   description: "Selling the rarest and most coveted FIFA cards on this website. From legendary players to limited-edition collectibles, we offer an exclusive selection of FIFA cards that will delight avid collectors and gamers alike.",
-  image: '/images/propack.png',
+  image: '/mohamad-masri-portfolio/images/propack.png',
   tags: ['React', 'TailwindCSS', 'Hooks', 'Redux'],
   visit: 'https://github.com/Masri-Programmer/modern_bank',
   source: 'https://masri-programmer.github.io/modern_bank/',
